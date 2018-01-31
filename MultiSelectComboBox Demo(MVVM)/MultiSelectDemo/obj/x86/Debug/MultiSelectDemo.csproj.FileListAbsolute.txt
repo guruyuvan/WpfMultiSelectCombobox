@@ -1,0 +1,33 @@
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\App.g.cs
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo_MarkupCompile.cache
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\bin\Debug\MultiSelectDemo.exe
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\bin\Debug\MultiSelectDemo.pdb
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\bin\Debug\MultiSelectComboBox.dll
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\bin\Debug\MultiSelectComboBox.pdb
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo.g.resources
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo.Properties.Resources.resources
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo.exe
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo.pdb
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\target\Documents\Visual Studio 2010\Projects\MultiSelectComboBox\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo_MarkupCompile.lref
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo.exe
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo.pdb
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\bin\Debug\MultiSelectDemo.exe
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\bin\Debug\MultiSelectDemo.pdb
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\bin\Debug\MultiSelectComboBox.dll
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\bin\Debug\MultiSelectComboBox.pdb
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo.csprojResolveAssemblyReference.cache
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\MainWindow.g.cs
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\App.g.cs
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo_MarkupCompile.cache
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo_MarkupCompile.lref
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\MainWindow.baml
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo.g.resources
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo.Properties.Resources.resources
+F:\Wpf\MultiSelectComboBoxDemo\MultiSelectComboBox Demo(MVVM)\MultiSelectDemo\obj\x86\Debug\MultiSelectDemo.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+﻿<Window x:Class="MultiSelectDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ViewModel="clr-namespace:MultiSelectDemo"
+        xmlns:control="clr-namespace:MultiSelectComboBox;assembly=MultiSelectComboBox"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <ViewModel:ViewModel x:Key="ViewModel"/>
+    </Window.Resources>
+    <Grid  DataContext="{Binding Source={StaticResource ViewModel}}">
+        <control:MultiSelectComboBox Width="200" Height="30" ItemsSource="{Binding Items}" SelectedItems="{Binding SelectedItems}" x:Name="MC" />
+    </Grid>
+</Window>
